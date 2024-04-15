@@ -1,5 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I’m Victor Yegon or @Kipngetich222 on Github
 
+- 👀 I’m doing a degree in Computer Science at Kisii University
+- 🔭 I’m a Web Developer
+- 💞️ I’m looking to contribute or help on projects, no pay , just for experience and learning.
+  
 <!--
 **Kipngetich222/Kipngetich222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
