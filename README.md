@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Yegon </h1>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <h1 align="center">Hi 👋, I'm Victor Yegon </h1> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 <h3 align="center">I'm a passionate web developer from Kenya with a robust background in both front-end and back-end technologies, specializing in creating dynamic, responsive websites that enhance user engagement.</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
