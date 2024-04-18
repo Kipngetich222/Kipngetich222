@@ -1,7 +1,6 @@
-![Banner](https://gifer.com/en/6L86#google_vignette)
-<h1 align="center">Hi 👋, I'm Victor Yegon or Kipngetich222 on GitHub</h1>
+<h1 align="center">Hi 👋, I'm Victor Yegon </h1>
 <h3 align="center">I'm a passionate web developer from Kenya with a robust background in both front-end and back-end technologies, specializing in creating dynamic, responsive websites that enhance user engagement.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipngetich222&label=Profile%20views&color=0e75b6&style=flat" alt="kipngetich222" /> </p>
 
